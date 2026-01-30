@@ -1,2 +1,4 @@
 flask
 flask-sqlalchemy
+
+el q lee es puton
